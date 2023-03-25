@@ -49,7 +49,7 @@ Android Application that will provide partner merchants with seamless delivery s
 
 <a href='https://play.google.com/store/apps/details?id=com.pixsell.carry.merchant&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technolgies :MVVM, Dagger2, Android SDK , Kotlin, Xml, RxJava, Retrofit, Room, Websocket, Firebase.
+### Technolgies :MVVM, Dagger2, Android SDK , Kotlin, Xml, RxJava, Retrofit, Room, Websocket, Firebase, Epoxy.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/36613137/227718402-4cff40fa-8b81-4d88-864c-70121abcdb59.jpg" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227718393-ba21b372-9bda-4a29-8cd2-7ac7052f8ea4.jpg" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227718400-87c7424a-d488-4daa-b15a-b502d27739fa.jpg" height="400">
 </p>
