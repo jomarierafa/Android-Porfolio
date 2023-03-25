@@ -23,3 +23,18 @@ Ratecompare provides you the cheapest way to send money internationally. Users v
 <img src="https://user-images.githubusercontent.com/36613137/113547487-9651df80-9620-11eb-933c-9062ab2dbe36.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/113547061-ca78d080-961f-11eb-9014-685be003870c.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/113547236-14fa4d00-9620-11eb-99f6-355d74343ee7.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/113547268-1fb4e200-9620-11eb-98ad-209120e4524f.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/113547286-280d1d00-9620-11eb-85ab-6a5d0a054696.png" height="400">
 </p>
 
+
+# Carry Consumer
+Carry is a mobile application focused on delivery services for food, grocery and any retail items. Carry also offers online Bills Payment facility for our partner utility and service providers.
+
+<a href='https://play.google.com/store/apps/details?id=com.pixsell.carry&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+### Technolgies : Android SDK , Kotlin, Xml, RxJava, Retrofit, Room, Websocket, Firebase.
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/36613137/227717678-d32266e4-5a07-4d6a-9aef-4509e943e6b6.jpg" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227717680-8c31ca68-b6d0-4d6c-8422-e1ec9fdb0266.jpg" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227717684-818c6098-bc52-4c35-9bdc-816d2ad4de1a.jpg" height="400">
+</p>
+
+
+
+
+
