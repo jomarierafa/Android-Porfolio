@@ -66,10 +66,23 @@ A kiosk tablet application use for self check-in in Royal Papua Yacht Club. The 
 
 <a href='https://play.google.com/store/apps/details?id=com.oneberry.kioskappnvr'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technolgies :MVVM, Android SDK , Kotlin, Xml, Kotlin Coroutine, Retrofit, Jetpack Libraries, Brother Printer SDK, Firebase, HID OMNIKEY Android Driver.
+### Technolgies :MVVM, Android SDK , Kotlin, Kotlin Coroutine, Retrofit, Jetpack Libraries, Brother Printer SDK, Firebase, HID OMNIKEY Android Driver.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/36613137/227780521-977428c3-85ea-48ad-97a6-4bb0b26c2c68.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227780539-e4566403-486a-4299-a216-9774c2f806f7.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227780548-ee5670b9-6698-4fa4-add2-eafd38c6c744.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227780560-e6e115e0-b649-431f-a138-6b6cb22a24ce.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227780600-492f1db9-fd93-45a1-9034-246651e251ce.png" height="400">  <img src="https://user-images.githubusercontent.com/36613137/227780606-f0e49b74-9e33-40c8-98d1-c7140f2ec06d.png" height="400"> 
 </p>
+
+<br><br><br>
+## _*KioskApp - OUE_
+A kiosk tablet application use for self check-in in OUE. The app has a facial detection feature that automatically captures the user's face when detected and recognizes it through the AnyVision server using RESTful API. Has the capabililty to scan NRIC using the tablet's camera.
+
+<a href='https://play.google.com/store/apps/details?id=com.oneberry.kioskappoue'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+### Technolgies :MVP, Android SDK , Kotlin, RxJava2, Retrofit, Jetpack Libraries, Firebase, MLKit Barcode Scanning .
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/36613137/227781260-c11ebba7-f625-4ace-9cfe-437762e4e42a.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227781297-efad83a3-1dc8-41b2-8f01-d880bae6306e.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227781306-f8b3addc-f3f0-4ce4-8dcb-c92d950d85e2.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227781308-520edeed-420b-4cfa-8862-bb1c4e0e795a.png" height="400">
+</p>
+
+
 
 
 
