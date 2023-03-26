@@ -3,9 +3,9 @@
 ### Hello, I am an Enthusiastic and dedicated mobile app developer offering years of expertise to Android Development industry. Dynamic and persanable with strong focus on application lifexycle. Eager to contribute to team success through hardwork, attention to detail and excellent organizational skills. Motivated to learn, grow and excel more in Mobile development.
 
 <br><br><br>
-## Projects
+# Projects
 <br>
-# CLMS - Class Learning Management System
+# 1.CLMS - Class Learning Management System
 Android Application designed to help students manage their courses, assignments, and grades in a single platform.
 
 <a href='https://play.google.com/store/apps/details?id=com.oa.v2.southridge&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
