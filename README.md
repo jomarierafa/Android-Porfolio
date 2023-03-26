@@ -5,6 +5,7 @@
 <br><br>
 # Projects
 <br>
+
 ## _CLMS - Class Learning Management System_
 Android Application designed to help students manage their courses, assignments, and grades in a single platform.
 
