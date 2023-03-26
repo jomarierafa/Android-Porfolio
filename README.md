@@ -13,7 +13,7 @@ Android Application designed to help students manage their courses, assignments,
 </p>
 
 
-
+<br><br><br>
 # RateCompare
 Ratecompare provides you the cheapest way to send money internationally. Users visit our website, enter where and how much they want to send, and our platform compares the leading money transfer providers to give you the best rate possible. No Fees. No Hassle. Save up to 90% of your transfer costs in under 10 seconds*
 
