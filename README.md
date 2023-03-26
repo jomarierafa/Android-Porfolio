@@ -4,7 +4,6 @@
 
 <br><br><br>
 # Projects
-<br>
 
 ## _CLMS - Class Learning Management System_
 Android Application designed to help students manage their courses, assignments, and grades in a single platform.
@@ -18,7 +17,7 @@ Android Application designed to help students manage their courses, assignments,
 
 
 <br><br><br>
-## 2. RateCompare
+## _RateCompare_
 Ratecompare provides you the cheapest way to send money internationally. Users visit our website, enter where and how much they want to send, and our platform compares the leading money transfer providers to give you the best rate possible. No Fees. No Hassle. Save up to 90% of your transfer costs in under 10 seconds*
 
 ### Technolgies : MVVM, Dagger2, Android SDK , Kotlin, Xml, RxJava, Retrofit, Room.
@@ -28,7 +27,7 @@ Ratecompare provides you the cheapest way to send money internationally. Users v
 </p>
 
 <br><br><br>
-## 3. Carry.ph Consumer
+## _Carry.ph Consumer_
 Carry is a mobile application focused on delivery services for food, grocery and any retail items. Carry also offers online Bills Payment facility for our partner utility and service providers.
 
 <a href='https://play.google.com/store/apps/details?id=com.pixsell.carry&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
@@ -39,7 +38,7 @@ Carry is a mobile application focused on delivery services for food, grocery and
 </p>
 
 <br><br><br>
-## 4. Carry.ph Rider
+## _Carry.ph Rider_
 Android Application for Carry riders for tracking user orders. 
 
 <a href='https://play.google.com/store/apps/details?id=com.pixsell.carry.rider&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
@@ -50,7 +49,7 @@ Android Application for Carry riders for tracking user orders.
 </p>
 
 <br><br><br>
-## 5. Carry.ph Partner
+## _Carry.ph Partner_
 Android Application that will provide partner merchants with seamless delivery services to assist their day-to-day operations. Merchants app will give our partners: food establishments, retail stores and grocery stores, a portal to manage their supplies availability, accept orders and view their sales.
 
 <a href='https://play.google.com/store/apps/details?id=com.pixsell.carry.merchant&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
