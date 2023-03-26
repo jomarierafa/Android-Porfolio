@@ -6,7 +6,7 @@
 # Projects
 <br>
 
-## 1. CLMS - Class Learning Management System
+## _CLMS - Class Learning Management System_
 Android Application designed to help students manage their courses, assignments, and grades in a single platform.
 
 <a href='https://play.google.com/store/apps/details?id=com.oa.v2.southridge&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
