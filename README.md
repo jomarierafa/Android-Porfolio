@@ -33,7 +33,7 @@ Carry is a mobile application focused on delivery services for food, grocery and
 
 <a href='https://play.google.com/store/apps/details?id=com.pixsell.carry&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technolgies : MVVM, Dagger2, Android SDK , Kotlin, RxJava2, Retrofit, Room, Websocket, Firebase.
+### Technolgies : MVVM, Dagger2, Android SDK , Kotlin, RxJava2, Retrofit, Room, Websocket, Firebase, Google Maps.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/36613137/227717678-d32266e4-5a07-4d6a-9aef-4509e943e6b6.jpg" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227717680-8c31ca68-b6d0-4d6c-8422-e1ec9fdb0266.jpg" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227717684-818c6098-bc52-4c35-9bdc-816d2ad4de1a.jpg" height="400">
 </p>
@@ -44,7 +44,7 @@ Android Application for Carry riders for tracking user orders.
 
 <a href='https://play.google.com/store/apps/details?id=com.pixsell.carry.rider&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technolgies :MVVM, Dagger2, Android SDK , Kotlin, RxJava2, Retrofit, Room, Websocket, Firebase.
+### Technolgies :MVVM, Dagger2, Android SDK , Kotlin, RxJava2, Retrofit, Room, Websocket, Firebase, Google Maps.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/36613137/227718137-c65676c5-6d72-4624-8f24-e3510d0e343d.jpg" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227718144-32825ba0-88bf-43df-a2f1-3cf5e385e60e.jpg" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227718146-4400c8b8-5fba-475b-8c07-802250a6fc6e.jpg" height="400">
 </p>
@@ -55,7 +55,7 @@ Android Application that will provide partner merchants with seamless delivery s
 
 <a href='https://play.google.com/store/apps/details?id=com.pixsell.carry.merchant&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technolgies :MVVM, Dagger2, Android SDK , Kotlin, RxJava2, Retrofit, Room, Websocket, Firebase, Epoxy.
+### Technolgies :MVVM, Dagger2, Android SDK , Kotlin, RxJava2, Retrofit, Room, Websocket, Firebase, Epoxy, Google Maps.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/36613137/227718402-4cff40fa-8b81-4d88-864c-70121abcdb59.jpg" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227718393-ba21b372-9bda-4a29-8cd2-7ac7052f8ea4.jpg" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227718400-87c7424a-d488-4daa-b15a-b502d27739fa.jpg" height="400">
 </p>
@@ -81,6 +81,18 @@ A kiosk tablet application use for self check-in in OUE. The app has a facial de
 <p align="center">
  <img src="https://user-images.githubusercontent.com/36613137/227781260-c11ebba7-f625-4ace-9cfe-437762e4e42a.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227781297-efad83a3-1dc8-41b2-8f01-d880bae6306e.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227781306-f8b3addc-f3f0-4ce4-8dcb-c92d950d85e2.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227781308-520edeed-420b-4cfa-8862-bb1c4e0e795a.png" height="400">
 </p>
+
+<br><br><br>
+## _*Mobile Guard Tour (MGT)_
+Mobile Guard Tour (MGT) is a system that serves as a reports management portal for guard tour clocking points. These clocking points are Radio Frequency Identification Device (RFID) tags which are activated using mobile devices with Near Field Communication (NFC) capability.
+
+<a href='https://play.google.com/store/apps/details?id=com.ob.mobileguardtour' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+### Technolgies :MVVM, Android SDK , Kotlin, Kotli Coroutines, Retrofit, Jetpack Libraries, Firebase, ActiveAndroid, Google Maps.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/36613137/227836490-8af3a9a7-af94-423e-9824-9995510e67cf.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227836506-adf14197-80d1-4450-8963-6336315aceb3.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227836515-22d4a7d5-35cd-4662-a48b-ffa9476c794c.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227836530-65bac4cb-5cfa-4040-9a83-32d4db783bdb.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227836545-810264f5-cb86-4549-8f3b-5711c2323739.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227836554-b514fa16-91c7-44fa-9f48-f0460397d7a5.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227836564-bb149241-4d8a-4684-8136-144f5928ba1d.png" height="400"> <img src="https://user-images.githubusercontent.com/36613137/227836573-7a2ccba9-2a07-4bd6-8fde-3062cd518279.png" height="400">
+</p>
+
 
 
 
